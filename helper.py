@@ -5,3 +5,7 @@ def decoreer(tekst=""):
     print(f"* {tekst}*")
     print(lengte * "*")
     print()
+
+
+
+

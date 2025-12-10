@@ -30,3 +30,5 @@ def meervoudig(invoer_lijst):
     uitvoer = [tijdelijk[0],tijdelijk[1]]
     return uitvoer
 print(meervoudig([150,5,20,50]))
+
+

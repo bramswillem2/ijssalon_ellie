@@ -40,3 +40,8 @@ def combinatie(invoer_lijst_2):
     return uitvoer
 print(combinatie([ 100,150,200,1000,1250]))
 
+def fooi_pp(bedrag, personen):
+    fooipp= bedrag/personen
+    uitvoer= f"Het fooibedrag per persoon is 1{fooipp} euro."
+    return uitvoer
+print (fooi_pp(20,5))
